@@ -21,3 +21,5 @@ I'm a graduate student of Data Science at New York Univeristy, currently a New Y
 <div class="row">
 {% include about/timeline.html %}
 </div>
+
+{% include elements/button.html link="https://github.com" text="Download Resume" %}
