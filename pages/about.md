@@ -12,6 +12,7 @@ I'm a graduate student of Data Science at New York Univeristy, currently a New Y
 
 ![DS](https://s27389.pcdn.co/wp-content/uploads/2019/12/top-5-data-science-strategy-predictions-2020-1024x440.jpeg "Building Image")
 
+{% include elements/figure.html image="https://s27389.pcdn.co/wp-content/uploads/2019/12/top-5-data-science-strategy-predictions-2020-1024x440.jpeg" caption="The Ocean" %}
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
