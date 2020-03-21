@@ -13,7 +13,7 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 I'm a graduate student of Data Science at New York Univeristy, currently a New York City TOWN+GOWN Research Scholar as a Data Scientist with New York City Department of Environmental Protection.
 
 
-# **Work Experience**
+
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
