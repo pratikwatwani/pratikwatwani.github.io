@@ -1,11 +1,9 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Data Scientist, New York City Department of Environmental Protection
+  from: 2020
+  to: Present
+  description: • Mapping diverse economic impacts linked with NYC DEP’s watershed protection programs illustrating economic shifts over time
+               • Executing spatiotemporal documentation of investments, correlational analysis, and devising an interactive visualization GUI tool
+                 drawing economic changes over the years on TB sized datasets
 
 - title: Software Engineer, Google, UK
   from: 2018
