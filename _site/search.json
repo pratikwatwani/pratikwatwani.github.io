@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Drug Use in San Francisco",
+      "category" : "",
+      "tags"     : "San Francisco, Drug Use, Civic, Open Data, Python",
+      "url"      : "/blog/how-to-undo-your-git-failure",
+      "date"     : "2019-12-22 00:00:00 -0500"
+    } ,
+  
+    {
       "title"    : "Digital Minimalism",
       "category" : "",
       "tags"     : "Social Media, Minimalism, Technology",
@@ -70,14 +78,6 @@
       "tags"     : "Version Control",
       "url"      : "/blog/what-is-version-control",
       "date"     : "2016-02-09 00:00:00 -0500"
-    } ,
-  
-    {
-      "title"    : "Drug Use in San Francisco",
-      "category" : "",
-      "tags"     : "San Francisco, Drug Use, Civic, Open Data, Python",
-      "url"      : "/blog/how-to-undo-your-git-failure",
-      "date"     : "2015-09-25 00:00:00 -0400"
     } 
   
 ]
