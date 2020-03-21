@@ -14,14 +14,8 @@ I'm a graduate student of Data Science at New York Univeristy, currently a New Y
 
 {% include elements/figure.html image="https://s27389.pcdn.co/wp-content/uploads/2019/12/top-5-data-science-strategy-predictions-2020-1024x440.jpeg" caption="The Ocean" %}
 
+# **Work Experience**
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
-
-<div class="row">
-{% include about/timeline.html %}
-</div>
-<div class="row">
-{% include about/timeline.html %}
 </div>
