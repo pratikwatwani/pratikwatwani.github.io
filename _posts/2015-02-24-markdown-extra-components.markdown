@@ -1,7 +1,7 @@
 ---
-title: "Markdown Extra Components"
+title: "Test"
 layout: post
-date: 2016-02-24 22:48
+date: 2020-09-09 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -9,8 +9,8 @@ tag:
 - components
 - extra
 category: blog
-author: jamesfoster
-description: Markdown summary with different options
+author: pratikwatwani
+description: test
 ---
 
 ## Summary:
