@@ -17,4 +17,16 @@
 <changefreq>Weekly</changefreq>
 <priority>0.5</priority>
 </url>
+<url>
+<loc>pratikwatwani.github.io/blog/</loc>
+<lastmod>2020-09-10</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>pratikwatwani.github.io/blog-2/</loc>
+<lastmod>2020-09-10</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>0.5</priority>
+</url>
 </urlset>
